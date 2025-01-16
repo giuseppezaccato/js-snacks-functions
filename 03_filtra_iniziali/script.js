@@ -23,7 +23,7 @@ function FirstLetter(array1, array2, letter) {
 //* tentativo => arrow/ternary "FirstLetter = (array1, array2, letter) =>...
 
 // Invoca la funzione qui e stampa il risultato in console
-console.log(FirstLetter(names, names2, capital));
+console.log(FirstLetter(names, names2, capital)); //? VALORE UNDEFINED
 
 
 
