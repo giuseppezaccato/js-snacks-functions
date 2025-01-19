@@ -24,6 +24,5 @@ function vocali(parola1, parola2) {
 //* BONUS console.log(vocali(word1, vowelsIN))
 
 
-
 //Risultato atteso se si passa 'javascript': 3 (a, a, i)
 console.log(vocali(word, vowelsIN));
